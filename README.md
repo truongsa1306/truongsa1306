@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Sa
-https://github-readme-stats.vercel.app/api?username=truongsa301206&show_icons=true
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=truongsa1306)
 🎓 IT Student  
 💻 Interested in Backend Development  
