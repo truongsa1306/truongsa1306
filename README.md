@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sa
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=truongsa1306)
+
 🎓 IT Student  
 💻 Interested in Backend Development  
 
